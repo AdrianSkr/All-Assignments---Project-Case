@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/bin/Debug/SimpelArv.exe
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/bin/Debug/SimpelArv.pdb
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/obj/x86/Debug/SimpelArv.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/obj/x86/Debug/SimpelArv.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/obj/x86/Debug/SimpelArv.exe
+/Users/adrianborgen/Projects/SimpelArv/SimpelArv/obj/x86/Debug/SimpelArv.pdb

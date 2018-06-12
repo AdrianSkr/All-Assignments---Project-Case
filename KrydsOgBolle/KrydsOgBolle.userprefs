@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EA1E4029-E468-4838-9A90-103DFC98B6F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/C#/Program.cs">
+    <Files>
+      <File FileName="KrydsOgBolle/Program.cs" Line="36" Column="54" />
+      <File FileName="../../Desktop/C#/Program.cs" Line="89" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KrydsOgBolle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

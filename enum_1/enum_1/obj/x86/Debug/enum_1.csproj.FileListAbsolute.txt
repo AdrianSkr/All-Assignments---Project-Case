@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/enum_1/enum_1/bin/Debug/enum_1.exe
+/Users/adrianborgen/Projects/enum_1/enum_1/bin/Debug/enum_1.pdb
+/Users/adrianborgen/Projects/enum_1/enum_1/obj/x86/Debug/enum_1.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/enum_1/enum_1/obj/x86/Debug/enum_1.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/enum_1/enum_1/obj/x86/Debug/enum_1.exe
+/Users/adrianborgen/Projects/enum_1/enum_1/obj/x86/Debug/enum_1.pdb

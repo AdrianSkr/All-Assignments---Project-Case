@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/bin/Debug/catch_enum_struct.exe
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/bin/Debug/catch_enum_struct.pdb
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/obj/x86/Debug/catch_enum_struct.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/obj/x86/Debug/catch_enum_struct.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/obj/x86/Debug/catch_enum_struct.exe
+/Users/adrianborgen/Projects/catch_enum_struct/catch_enum_struct/obj/x86/Debug/catch_enum_struct.pdb

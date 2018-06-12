@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/bin/Debug/KasseRegister.exe
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/bin/Debug/KasseRegister.pdb
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/obj/x86/Debug/KasseRegister.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/obj/x86/Debug/KasseRegister.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/obj/x86/Debug/KasseRegister.exe
+/Users/adrianborgen/Projects/KasseRegister/KasseRegister/obj/x86/Debug/KasseRegister.pdb

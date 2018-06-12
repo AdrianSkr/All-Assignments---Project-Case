@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/obj/x86/Debug/Kasseapparat.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/obj/x86/Debug/Kasseapparat.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/bin/Debug/Kasseapparat.exe
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/bin/Debug/Kasseapparat.pdb
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/obj/x86/Debug/Kasseapparat.exe
+/Users/adrianborgen/Projects/Kasseapparat/Kasseapparat/obj/x86/Debug/Kasseapparat.pdb

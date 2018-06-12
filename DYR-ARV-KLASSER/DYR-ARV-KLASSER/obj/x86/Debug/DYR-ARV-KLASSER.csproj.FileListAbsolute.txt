@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/bin/Debug/DYR-ARV-KLASSER.exe
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/bin/Debug/DYR-ARV-KLASSER.pdb
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/obj/x86/Debug/DYR-ARV-KLASSER.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/obj/x86/Debug/DYR-ARV-KLASSER.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/obj/x86/Debug/DYR-ARV-KLASSER.exe
+/Users/adrianborgen/Projects/DYR-ARV-KLASSER/DYR-ARV-KLASSER/obj/x86/Debug/DYR-ARV-KLASSER.pdb

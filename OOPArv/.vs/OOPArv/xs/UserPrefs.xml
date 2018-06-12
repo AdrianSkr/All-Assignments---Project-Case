@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6D663D9D-4DD9-4A4D-870F-8472F6DE40BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPArv/Program.cs">
+    <Files>
+      <File FileName="OOPArv/Program.cs" Line="19" Column="1" />
+      <File FileName="OOPArv/Person.cs" Line="27" Column="6" />
+      <File FileName="OOPArv/Lærer.cs" Line="9" Column="13" />
+      <File FileName="OOPArv/Elev.cs" Line="13" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOPArv PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

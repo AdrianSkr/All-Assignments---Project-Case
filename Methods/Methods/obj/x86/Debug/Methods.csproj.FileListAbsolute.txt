@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/Methods/Methods/bin/Debug/Methods.exe
+/Users/adrianborgen/Projects/Methods/Methods/bin/Debug/Methods.pdb
+/Users/adrianborgen/Projects/Methods/Methods/obj/x86/Debug/Methods.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/Methods/Methods/obj/x86/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/Methods/Methods/obj/x86/Debug/Methods.exe
+/Users/adrianborgen/Projects/Methods/Methods/obj/x86/Debug/Methods.pdb

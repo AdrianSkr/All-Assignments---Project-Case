@@ -1,0 +1,5 @@
+/Users/adrianborgen/Projects/H1_Opgave1_12/H1_Opgave1_12/obj/x86/Debug/H1_Opgave1_12.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/H1_Opgave1_12/H1_Opgave1_12/bin/Debug/H1_Opgave1_12.exe
+/Users/adrianborgen/Projects/H1_Opgave1_12/H1_Opgave1_12/bin/Debug/H1_Opgave1_12.pdb
+/Users/adrianborgen/Projects/H1_Opgave1_12/H1_Opgave1_12/obj/x86/Debug/H1_Opgave1_12.exe
+/Users/adrianborgen/Projects/H1_Opgave1_12/H1_Opgave1_12/obj/x86/Debug/H1_Opgave1_12.pdb

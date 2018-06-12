@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/bin/Debug/MetodeOpgave.exe
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/bin/Debug/MetodeOpgave.pdb
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/obj/x86/Debug/MetodeOpgave.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/obj/x86/Debug/MetodeOpgave.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/obj/x86/Debug/MetodeOpgave.exe
+/Users/adrianborgen/Projects/MetodeOpgave/MetodeOpgave/obj/x86/Debug/MetodeOpgave.pdb

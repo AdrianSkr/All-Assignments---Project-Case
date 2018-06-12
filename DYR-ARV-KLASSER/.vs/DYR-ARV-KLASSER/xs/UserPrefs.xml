@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BC164219-FD70-4828-B7B0-0DB439C82604}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DYR-ARV-KLASSER/Program.cs">
+    <Files>
+      <File FileName="DYR-ARV-KLASSER/Program.cs" Line="30" Column="1" />
+      <File FileName="DYR-ARV-KLASSER/Kæledyr.cs" Line="14" Column="1" />
+      <File FileName="DYR-ARV-KLASSER/Cat.cs" Line="14" Column="27" />
+      <File FileName="DYR-ARV-KLASSER/Dog.cs" Line="9" Column="1" />
+      <File FileName="DYR-ARV-KLASSER/Fish.cs" Line="10" Column="10" />
+      <File FileName="DYR-ARV-KLASSER/Bird.cs" Line="11" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DYR-ARV-KLASSER PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

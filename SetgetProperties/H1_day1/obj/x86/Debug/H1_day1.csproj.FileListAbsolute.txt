@@ -1,0 +1,12 @@
+/Users/adrianborgen/Projects/H1_day1/H1_day1/bin/Debug/H1_day1.exe
+/Users/adrianborgen/Projects/H1_day1/H1_day1/bin/Debug/H1_day1.pdb
+/Users/adrianborgen/Projects/H1_day1/H1_day1/obj/x86/Debug/H1_day1.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/H1_day1/H1_day1/obj/x86/Debug/H1_day1.exe
+/Users/adrianborgen/Projects/H1_day1/H1_day1/obj/x86/Debug/H1_day1.pdb
+/Users/adrianborgen/Projects/H1_day1/H1_day1/obj/x86/Debug/H1_day1.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/obj/x86/Debug/H1_day1.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/obj/x86/Debug/H1_day1.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/obj/x86/Debug/H1_day1.exe
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/obj/x86/Debug/H1_day1.pdb
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/bin/Debug/H1_day1.exe
+/Users/adrianborgen/Projects/SetgetProperties/H1_day1/bin/Debug/H1_day1.pdb

@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/bin/Debug/Methods24-30.exe
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/bin/Debug/Methods24-30.pdb
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/obj/x86/Debug/Methods24-30.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/obj/x86/Debug/Methods24-30.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/obj/x86/Debug/Methods24-30.exe
+/Users/adrianborgen/Projects/Methods24-30/Methods24-30/obj/x86/Debug/Methods24-30.pdb

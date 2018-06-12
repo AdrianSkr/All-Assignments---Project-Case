@@ -1,0 +1,5 @@
+/Users/adrianborgen/Projects/Array_arraylist_list/Array_arraylist_list/obj/x86/Debug/Array_arraylist_list.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/Array_arraylist_list/Array_arraylist_list/bin/Debug/Array_arraylist_list.exe
+/Users/adrianborgen/Projects/Array_arraylist_list/Array_arraylist_list/bin/Debug/Array_arraylist_list.pdb
+/Users/adrianborgen/Projects/Array_arraylist_list/Array_arraylist_list/obj/x86/Debug/Array_arraylist_list.exe
+/Users/adrianborgen/Projects/Array_arraylist_list/Array_arraylist_list/obj/x86/Debug/Array_arraylist_list.pdb

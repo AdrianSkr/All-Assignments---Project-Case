@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D6BAD30B-7EBE-49B2-B039-AE46B7D8E9AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3_opgaver_udregninger/Program.cs">
+    <Files>
+      <File FileName="3_opgaver_udregninger/Program.cs" Line="24" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3__opgaver__udregninger PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

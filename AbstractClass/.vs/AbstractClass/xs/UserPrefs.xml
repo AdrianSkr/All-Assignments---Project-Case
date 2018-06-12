@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{89785834-24F5-4C20-9E4D-43B148254D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClass/AbstractClass.cs">
+    <Files>
+      <File FileName="AbstractClass/Program.cs" Line="15" Column="1" />
+      <File FileName="AbstractClass/AbstractClass.cs" Line="12" Column="28" />
+      <File FileName="AbstractClass/ArveKlasse.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

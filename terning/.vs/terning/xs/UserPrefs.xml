@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C004214B-8598-476A-B68F-7BA6D7957DC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="terning/Program.cs">
+    <Files>
+      <File FileName="terning/Program.cs" Line="33" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.terning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3449F3F6-7FCC-445A-ACC7-986A1E36B907}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpelArv/Program.cs">
+    <Files>
+      <File FileName="SimpelArv/Program.cs" Line="15" Column="13" />
+      <File FileName="SimpelArv/Nisser.cs" Line="11" Column="51" />
+      <File FileName="SimpelArv/ArveNisse.cs" Line="20" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpelArv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0ED70B8F-F84E-45F9-AB0E-C248820B6DA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/C#/LOTTO KUPON.cs">
+    <Files>
+      <File FileName="LOTTOKUPON.cs" Line="58" Column="22" />
+      <File FileName="../../Desktop/C#/LOTTO KUPON.cs" Line="81" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.MetodeOpgave PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

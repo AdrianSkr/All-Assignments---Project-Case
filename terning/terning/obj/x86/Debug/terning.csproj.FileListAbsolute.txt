@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/terning/terning/bin/Debug/terning.exe
+/Users/adrianborgen/Projects/terning/terning/bin/Debug/terning.pdb
+/Users/adrianborgen/Projects/terning/terning/obj/x86/Debug/terning.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/terning/terning/obj/x86/Debug/terning.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/terning/terning/obj/x86/Debug/terning.exe
+/Users/adrianborgen/Projects/terning/terning/obj/x86/Debug/terning.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BB8F017C-7381-4685-BBDD-7F47CBF030D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="catch_enum_struct/Program.cs">
+    <Files>
+      <File FileName="catch_enum_struct/Program.cs" Line="103" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.catch__enum__struct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

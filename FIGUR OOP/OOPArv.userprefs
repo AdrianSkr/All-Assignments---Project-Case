@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D476FE81-0CEB-411E-96AC-72EDC242621D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPArv/Program.cs">
+    <Files>
+      <File FileName="OOPArv/Program.cs" Line="21" Column="32" />
+      <File FileName="OOPArv/elev.cs" Line="5" Column="6" />
+      <File FileName="OOPArv/FirkantAreal.cs" Line="22" Column="1" />
+      <File FileName="OOPArv/CirkelAreal.cs" Line="17" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOPArv PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

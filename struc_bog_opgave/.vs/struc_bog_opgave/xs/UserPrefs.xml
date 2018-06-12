@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{364922C2-54C5-4FF0-9D35-E71803276253}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="struc_bog_opgave/Program.cs">
+    <Files>
+      <File FileName="struc_bog_opgave/Program.cs" Line="20" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.struc__bog__opgave PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

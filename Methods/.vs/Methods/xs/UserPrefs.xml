@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{51366012-F4B6-4853-890E-0789B463E545}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Methods1">
+    <Files>
+      <File FileName="Methods/Methods1" Line="47" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

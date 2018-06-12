@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/obj/x86/Debug/AbstractClass.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/obj/x86/Debug/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/bin/Debug/AbstractClass.exe
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/bin/Debug/AbstractClass.pdb
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/obj/x86/Debug/AbstractClass.exe
+/Users/adrianborgen/Projects/AbstractClass/AbstractClass/obj/x86/Debug/AbstractClass.pdb

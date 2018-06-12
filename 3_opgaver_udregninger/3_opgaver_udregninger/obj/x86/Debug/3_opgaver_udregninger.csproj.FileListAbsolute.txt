@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/bin/Debug/3_opgaver_udregninger.exe
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/bin/Debug/3_opgaver_udregninger.pdb
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/obj/x86/Debug/3_opgaver_udregninger.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/obj/x86/Debug/3_opgaver_udregninger.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/obj/x86/Debug/3_opgaver_udregninger.exe
+/Users/adrianborgen/Projects/3_opgaver_udregninger/3_opgaver_udregninger/obj/x86/Debug/3_opgaver_udregninger.pdb

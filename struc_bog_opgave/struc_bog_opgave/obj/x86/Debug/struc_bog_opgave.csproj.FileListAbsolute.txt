@@ -1,0 +1,6 @@
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/obj/x86/Debug/struc_bog_opgave.csprojResolveAssemblyReference.cache
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/obj/x86/Debug/struc_bog_opgave.csproj.CoreCompileInputs.cache
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/bin/Debug/struc_bog_opgave.exe
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/bin/Debug/struc_bog_opgave.pdb
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/obj/x86/Debug/struc_bog_opgave.exe
+/Users/adrianborgen/Projects/struc_bog_opgave/struc_bog_opgave/obj/x86/Debug/struc_bog_opgave.pdb

@@ -1,0 +1,5 @@
+/Users/asger/Projects/OOPArv/OOPArv/bin/Debug/OOPArv.exe
+/Users/asger/Projects/OOPArv/OOPArv/bin/Debug/OOPArv.pdb
+/Users/asger/Projects/OOPArv/OOPArv/obj/x86/Debug/OOPArv.csproj.CoreCompileInputs.cache
+/Users/asger/Projects/OOPArv/OOPArv/obj/x86/Debug/OOPArv.exe
+/Users/asger/Projects/OOPArv/OOPArv/obj/x86/Debug/OOPArv.pdb

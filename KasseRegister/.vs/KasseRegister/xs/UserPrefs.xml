@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FDEBC22C-5D21-4783-A6A8-9F60EE99B972}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KasseRegister/Program.cs">
+    <Files>
+      <File FileName="KasseRegister/Program.cs" Line="145" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KasseRegister PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
