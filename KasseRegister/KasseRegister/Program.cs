@@ -133,6 +133,8 @@ namespace Kasseapparat
                 }
 
             } while (flereVare == "ja" || flereVare == "JA");
+
+            Console.ReadKey();
         }
 
             struct Vare
